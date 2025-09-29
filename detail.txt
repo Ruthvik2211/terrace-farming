@@ -1,1 +1,5 @@
-baby
+Terrace farming -
+    1. disease detection and solution
+    2. blog (community explore)
+    3. store
+    4. daily activities(alarm)
